@@ -22,7 +22,7 @@ The rendering resolution can be setup by changing the the value RES defined in c
 Rendered images will be saved in `.ppm`(Portable Pixel Map).
 
 From an image sequence, one can use external software to generate a video. We sugest using ffmpeg:
-If the image format has the form `<fileprefix>%<n>d.ppm` (example: `fileprefix` = `"image",`n=3` - image000.ppm, image001.ppm,etc),
+If the image format has the form `<fileprefix>%<n>d.ppm` (example: `fileprefix` = "image",`n=3` - image000.ppm, image001.ppm,etc),
 the following command may be used.
 `ffmpeg -i image%3d.ppm -b:v 8M -r 30 video.mp4`
 
