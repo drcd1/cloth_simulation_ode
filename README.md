@@ -14,7 +14,7 @@ OR
 ### How to run
 `./prog`
 
-The progrma will then ask you to input the parameters you'd like to use.
+The program will then ask you to input the parameters you'd like to use.
 (cloth resolution, integrator, timestep, etc...)
 
 
