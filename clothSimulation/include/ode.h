@@ -1,6 +1,7 @@
 #ifndef NODE_ODE
 #define NODE_ODE
 #include <vector>
+#include <array>
 #include <iterator>
 #include <thread>
 #include <chrono>
