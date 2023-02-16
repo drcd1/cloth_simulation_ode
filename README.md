@@ -3,6 +3,10 @@
 
 ![A cloth falls on an invisible sphere](https://github.com/drcd1/cloth_simulation_ode/blob/main/media/output.gif)
 
+## Results
+
+You may find the results of this short experiment in this [report](https://github.com/drcd1/cloth_simulation_ode/blob/main/media/report.pdf) and this [video](https://www.youtube.com/watch?v=FVa_d85nywg).
+
 ## Instructions
 (The following instructions are intended for a Linux computer)
 
@@ -33,8 +37,5 @@ Note: if the rendering is taking too long for later frames, use Ctrl-C to quit t
 
 Note 2: the files args.txt can be used as input to the program to simulate and render one of the default scenes:
 `./prog<args.txt`
-
-## Results
-
-You may find the results of this short experiment in this [report](https://github.com/drcd1/cloth_simulation_ode/blob/main/media/report.pdf) and this [video](https://www.youtube.com/watch?v=FVa_d85nywg).
+v
 
